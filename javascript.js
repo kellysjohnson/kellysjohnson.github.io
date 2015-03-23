@@ -1,9 +1,9 @@
-var a = 2;
-var b = 3;
-var y  = function(){
-  b = b-a;
+var seven=7;
+
+function mathIsGreat(seven){
+  seven+=2;
+  console.log(seven);
 }
 
-console.log(y);
 
 
