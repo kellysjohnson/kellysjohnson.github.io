@@ -1,10 +1,9 @@
-var a=2;
-var b=7;
-var y=1;
+var a = 2;
+var b = 3;
 
-function subtract(a,b) {
-  y = 7*2;
-  return y;
+var subtract = function(){
+  y = a-b;
+  return y;  
 }
 
 console.log(subtract);
