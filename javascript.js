@@ -1,11 +1,9 @@
 var a = 2;
 var b = 3;
-
-var subtract = function(){
+var y  = function(){
   b = b-a;
-  return b;
 }
 
-console.log(b);
+console.log(y);
 
 
