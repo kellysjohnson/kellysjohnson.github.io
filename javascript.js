@@ -1,9 +1,8 @@
 var a=7;
 var b=3;
 
-function mathIsGreat(){
+function mathIsGreat(a,b){
   mathIsGreat = a*b;
-  return mathIsGreat;
 }
 
 console.log(mathIsGreat);
