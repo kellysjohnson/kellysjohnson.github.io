@@ -1,9 +1,10 @@
-var seven=7;
+y=1;
 
-function mathIsGreat(seven) {
-  var fourteen = seven*2;
+function subtract(7,2) {
+  y = 7*2;
+  return y;
 }
 
-console.log(seven);
+console.log(y);
 
 
