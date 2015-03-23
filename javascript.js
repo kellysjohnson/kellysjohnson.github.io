@@ -1,6 +1,7 @@
-y=1;
+var a=2;
+var b=7;
 
-function subtract(7,2) {
+function subtract(a,b) {
   y = 7*2;
   return y;
 }
