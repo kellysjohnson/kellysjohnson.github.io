@@ -1,4 +1,4 @@
-funtion trains() {
+function trains() {
   var trains = 2*2;
 }
 
