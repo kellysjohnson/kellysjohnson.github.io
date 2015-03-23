@@ -1,8 +1,5 @@
-var seven = 7;
+var trains = 8;
 
-function mathIsGreat (seven) {
-	var mathIsGreat=seven*2;
-	console.log(mathIsGreat);
-}
+console.log(trains);
 
 
