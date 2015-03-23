@@ -7,6 +7,6 @@ function subtract(a,b) {
   return y;
 }
 
-console.log(y);
+console.log(subtract);
 
 
