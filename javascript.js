@@ -1,7 +1,5 @@
-function math (){
-  var seven=7;
-  seven*=2;
-}
-console.log(math);
+var trains = 7;
+
+console.log(trains);
 
 
