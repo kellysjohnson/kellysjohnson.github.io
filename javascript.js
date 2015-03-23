@@ -1,5 +1,8 @@
-var trains = 8;
+var seven = 7;
 
-console.log(trains);
+function math (seven){
+  var math=seven*2;
+}
+console.log(math);
 
 
