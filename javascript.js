@@ -1,8 +1,8 @@
 function mathIsGreat(a,b){
-  return a*b;
+  mathIsGreat = a*b;
 }
 
-mathIsGreat(3,7);
+mathIsGreat(4,7);
 console.log(mathIsGreat);
 
 
